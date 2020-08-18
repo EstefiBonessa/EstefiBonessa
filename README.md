@@ -15,7 +15,7 @@
         
 <br/>
 
-<h3> 📫  For more information, you can find me in <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h3>
+<h5> 📫  For more information, you can find me in <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h5>
 
 
 
