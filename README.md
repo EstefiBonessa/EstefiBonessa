@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EstefiBonessa/EstefiBonessa/master/banner.jpg" alt="Banner about Estefi">
+<img src="https://github.com/EstefiBonessa/EstefiBonessa/blob/master/banner.jpg?raw=true" alt="Banner about Estefi">
 
 ### Hi  I´m Estefi!!  :boom:
 
