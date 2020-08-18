@@ -14,6 +14,11 @@
         <li> [x] GIT </li>
         
 <br/>
+
+<h3> 📫  For more information, you can find me in <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h3>
+
+
+
 <!--
 **EstefiBonessa/EstefiBonessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
