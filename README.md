@@ -5,7 +5,7 @@
 
 <hr/>
 <div>
-  <h3> I am a set and costume designer starting my journer through Web Development :rocket:</h3>
+  <h4> I am a set and costume designer starting my journer through Web Development :rocket:</h4>
   <br/>
       <ul>
         <li> [x] HTML </li>
@@ -15,6 +15,7 @@
         
 <br/>
 
+<h5> 😄  Check out my first project !!! <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h5>
 <h5> 📫  For more information, you can find me in <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h5>
 
 
