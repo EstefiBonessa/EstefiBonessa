@@ -11,7 +11,7 @@
         <li> [x] HTML </li>
         <li> [x] CSS </li>
         <li> [x] Less/Sass </li>
-        <li> [x] Boostrap </li>
+        <li> [x] Bootstrap </li>
         <li> [x] GIT </li>
         <li> [x] JavaScript </li>
         <li> [x] React </li>
