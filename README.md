@@ -17,10 +17,15 @@
         <li> [x] React </li>
         <li> [x] Redux </li>
         <li> [x] Express </li>
+        <li> [x] Express </li>
+        <li> [x] GraphQL </li>
+        <li> [x] Apollo Server </li>
+        <li> [x] React Native </li>
         
 <br/>
 
-<h5> 😄  Check out my first project !!! Keep on learning and improving constantly ⚡ <a href="https://estefibonessa.github.io/Paginaweb">Profile Web Site</a></h5>
+<h4> 😄  Check out my first project !!! Keep on learning and improving constantly ⚡ <a href="https://estefibonessa.github.io/Paginaweb">Profile Web Site</a></h5>
+<h4> 😄  Check out our E-Commmerce BOMBA !!! Developed with React | Redux | Express  ⚡ <a href="https://bomba-ecommerce.web.app/">bomba </a></h5>
 <h5> 📫  For more information, you can find me in <a href="https://www.linkedin.com/in/estefania-bonessa-67188293/">LinkedIn</a></h5>
 
 
